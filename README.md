@@ -1,2 +1,2 @@
 # Xiangzhou Sun, Jonas
-I'm a high school student in California.
+I am a high school student in California, USA. My dream is to become a software engineer and digital artist.
